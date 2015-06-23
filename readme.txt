@@ -22,6 +22,13 @@ e.g.
 3. Go to the main menu in your admin control panel, select WP Hide and select what you want to hide.
 4. You can hide warnings/notices or individual update notices.
 
+
+== Screenshots ==
+
+1. screenshot-1.png
+2. screenshot-2.jpeg
+
+
 == Changelog ==
 
 = 1.0 =
