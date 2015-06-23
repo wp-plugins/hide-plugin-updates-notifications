@@ -3,8 +3,8 @@ Contributors: midlandwebcompany
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=FZFNDS4DLJ23A
 Tags: WP Hide Plugin Updates and Warnings,
 Requires at least: 3.0.1
-Tested up to: 4.1.5
-Stable tag: 4.1.5
+Tested up to: 4.2.2
+Stable tag: 4.2.2
 License: GPLv2 or later
 
 
