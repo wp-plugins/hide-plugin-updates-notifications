@@ -16,6 +16,9 @@ The plugin gives you the ability to hide individual plugin update warnings.
 
 It also gives you the option to hide global admin inline warnings/notices.
 
+
+Developed by: <a href="http://www.midlandwebcompany.com/">Midland Web Company</a> 
+
 == Installation ==
 
 This section describes how to install the plugin and get it working.
