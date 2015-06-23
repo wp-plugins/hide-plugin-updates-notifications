@@ -10,7 +10,11 @@ License: GPLv2 or later
 
 == Description ==
 
-WP Hide Plugin Updates Notifications plugin gives you the option to hide updates, warnings and notices in the admin panel.
+WP Hide Plugin Updates Notifications plugin gives you the option to hide updates warnings and inline notices in the admin panel.
+
+The plugin gives you the ability to hide individual plugin update warnings.
+
+It also gives you the option to hide global admin inline warnings/notices.
 
 == Installation ==
 
