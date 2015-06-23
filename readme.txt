@@ -32,7 +32,7 @@ e.g.
 
 1. screenshot-1.png
 2. screenshot-2.jpeg
-
+2. screenshot-3.jpeg
 
 == Changelog ==
 
